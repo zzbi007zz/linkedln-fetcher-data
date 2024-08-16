@@ -28,7 +28,7 @@ const LinkedInJobSearch = () => {
         method: 'GET',
         headers: {
           'x-rapidapi-host': 'linkedin-data-api.p.rapidapi.com',
-          'x-rapidapi-key': '673f5a9e11msh24a4990886ea827p17c2f8jsn720d1b5fd529'
+          'x-rapidapi-key': 'your_rapidapi_key_here'
         }
       });
 
